@@ -21,8 +21,8 @@ Journal Articles
 
 Referred Conference Proceedings
 ---
-1.  Shengyu Zhu, Ignavier Ng, and Zhitang Chen, Causal discovery with reinforcement learning”, ICLR, April 2020.  **(highest review score and oral presentation; top 1.6%)**
-2.	Shengyu Zhu, Biao Chen, Pengfei Yang, and Zhitang Chen, “Universal hypothesis testing with kernels: Asymptotically optimal tests for goodness of fit,” International COnference on Artificial Intelligence and Statistics (AISTATS), Naha, Okinawa, Japan, April 2019.
+1.  Shengyu Zhu, Ignavier Ng, and Zhitang Chen, Causal discovery with reinforcement learning”, International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020.  **(highest review score and oral presentation; top 1.6%)**
+2.	Shengyu Zhu, Biao Chen, Pengfei Yang, and Zhitang Chen, “Universal hypothesis testing with kernels: Asymptotically optimal tests for goodness of fit,” International Conference on Artificial Intelligence and Statistics (AISTATS), Naha, Okinawa, Japan, April 2019.
 3.	Shengyu Zhu and Biao Chen, [Distributed detection over connected networks via one-bit quantizer](http://dx.doi.org/10.1109/ISIT.2016.7541554), IEEE International Symposium on Information Theory (ISIT), Barcelona, Spain, July 2016.
 4.	Shengyu Zhu and Biao Chen, [Distributed average consensus with bounded quantization](http://dx.doi.org/10.1109/SPAWC.2016.7536852), IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Edinburgh, UK, July 2016.
 5.	Shengyu Zhu, Mingyi Hong, and Biao Chen, [Quantized consensus ADMM for multi-agent distributed optimization](http://dx.doi.org/10.1109/ICASSP.2016.7472455), IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, China, March 2016.
