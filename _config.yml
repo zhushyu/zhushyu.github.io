@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shengyu Zhu， Ph.D."
+title                    : "Shengyu Zhu"
 title_separator          : "-"
 name                     : &name "Shengyu Zhu"
 description              : &description "personal description"
@@ -93,6 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
+  dblp             : https://dblp.org/pid/131/6555
   flickr           :
   facebook         :
   foursquare       :
