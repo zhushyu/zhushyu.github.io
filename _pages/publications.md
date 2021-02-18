@@ -31,7 +31,7 @@ Referred Conference Proceedings
 7.	Shengyu Zhu and Biao Chen, [Data reduction in tandem fusion systems](http://dx.doi.org/10.1109/ChinaSIP.2013.6625412), IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP), Beijing, China, July 2013.
 8.	Shengyu Zhu, Earnest Akofor, and Biao Chen, [Interactive distributed detection with conditionally independent observations](http://dx.doi.org/10.1109/WCNC.2013.6554959), IEEE Wireless Communications and Networking Conference (WCNC), Shanghai, China, April 2013.
 
-Preprints and Workshop Papers
+Some Preprints and Workshop Papers
 ---
 
 
