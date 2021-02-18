@@ -17,10 +17,8 @@ We are constantly looking for self-motivated research interns. Please send me yo
 Selected Publications
 ---
 * [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), IEEE Transactions on Information Theory, 2021
-    > This work (almost) solves a long-standing open problem in information theory and statistics, *the universal hypothesis testing problem*, dating back to 
-    > a work of W. Hoeffding in 1965. Previously the universal optimality was only obtained only for distributions defined on a finite sample space, and attempts to generalize 
-    > the desired optimality to Polish space have been largely fruitless. We show that some kernel based tests can achieve the same optimality on Polish, locally compact Hausdorff
-    > space (e.g., $\mathbb R^d$), based on Sanov's theorem from large deivations. The same universaly optimality is further established  in two-sample settings where an extended 
+    > This work (almost) solves an open problem in information theory and statistics, *the universal hypothesis testing problem*, dating back to 
+    > a work of W. Hoeffding in 1965. The same universal optimality is further established  in two-sample settings where an extended 
     > version of Sanov's theorem is proved.
 
 * [Causal discovery with reinforcement learning](https://openreview.net/forum?id=S1g2skStPB), International Conference on Learning Representations (ICLR), 2020
