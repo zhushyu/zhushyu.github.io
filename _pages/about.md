@@ -12,7 +12,7 @@ Hello
 
 News
 ---
-We are constantly looking for self-motivated research interns. Please send me your CV if you are interested. 
+We are constantly looking for self-motivated research interns. If you are interested in causality related topics (including but not limited to: causal inference and discovery, causality-inspired machine learning, applications in root cause analysis and recommender systems, etc.),  please send your resume to zhushengyu@huawei.com or zhushyu@outlook.com)
 
 Selected Publications
 ---
