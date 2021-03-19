@@ -34,5 +34,7 @@ Referred Conference Proceedings
 Some Preprints and Workshop Papers
 ---
 
-
+1. [Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691)
+2. [Masked Gradient-Based Causal Structure Learning](https://arxiv.org/abs/1910.08527)
+3. [A graph autoencoder approach to causal structure learning](https://arxiv.org/abs/1911.07420), NeurIPS Causality Workshop, 2019.
 
