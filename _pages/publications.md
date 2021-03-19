@@ -13,7 +13,7 @@ author_profile: true
 
 Journal Articles
 ---
-1. Shengyu Zhu, Biao Chen, Zhitang Chen, and Pengfei Yang, [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), IEEE Transactions on Information Theory, Early Access, Feburary 2021.
+1. Shengyu Zhu, Biao Chen, Zhitang Chen, and Pengfei Yang, [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), IEEE Transactions on Information Theory, to appear, Feburary 2021.
 2. Shengyu Zhu and Biao Chen, [Distributed detection in ad hoc networks through quantized consensus](http://dx.doi.org/10.1109/TIT.2018.2865108), IEEE Transactions on Information Theory, vol. 64, no. 11, pp. 7017-7030, November 2018.
 3. Shengyu Zhu and Biao Chen, [Quantized consensus by the ADMM: Probabilistic versus deterministic quantizers](http://dx.doi.org/10.1109/TIT.2018.2865108), IEEE Transactions on Signal Processing, vol. 64, no. 7, pp. 1700-1713, April 2016.
 4. Ge Xu, Shengyu Zhu, and Biao Chen, [Decentralized data reduction with quantization constraints](http://dx.doi.org/10.1109/TSP.2015.2504341), IEEE Transactions on Signal Processing, vol. 64, no. 7, pp. 1700-1713, April 2014. **（corresponding author)**
