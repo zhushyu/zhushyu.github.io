@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello
+Shengyu Zhu is currently a senior researcher at Huawei Noah's Ark Lab. He received his M.S. degree in mathematics and Ph.D. degree in electrical and computer engineering from Syracuse University, NY, USA, in 2016 and 2017, respectively. Before that, he obtained his B.E. degree in electrical engineering from Beijing Institute of Technology. He received the All University Doctoral Prize from Syracuse University for research excellence in completed dissertations in 2018. He has published in several top-ranked journals and conferences, including IEEE Trans. Information Theory, IEEE Trans. Signal Processing, ICLR, AISTATS, ISIT, etc. He preivously workd on some theoretical problems from information theory and statistical signal processing using statistics and opitmization methods, and his current interests mainly focus on causality and machine learning.
 
 News
 ---
-We are constantly looking for self-motivated research interns. If you are interested in causality related topics (including but not limited to: causal inference and discovery, causality-inspired machine learning, applications in root cause analysis and recommender systems, etc.),  please send your resume to zhushengyu@huawei.com or zhushyu@outlook.com)
+**Research Internship:** We are constantly looking for self-motivated research interns. If you are interested in causality related topics (including but not limited to: causal inference and discovery, causality-inspired machine learning such as domain adaptation and invariant/stable prediction, applications in root cause analysis and recommender systems, etc.),  please send your resume to zhushengyu@huawei.com or zhushyu@outlook.com.
 
 Selected Publications
 ---
