@@ -12,7 +12,7 @@ Shengyu Zhu is a senior researcher at Huawei Noah's Ark Lab. He received his M.S
 
 News
 ---
-**Research Internship:** We are constantly looking for self-motivated research interns. If you are interested in causality related topics (including but not limited to: causal inference and discovery, causality-inspired machine learning such as domain adaptation and invariant/stable prediction, applications in root cause analysis and recommender systems, etc.),  please send your resume to zhushengyu@huawei.com or zhushyu@outlook.com.
+**Research Internship:** We are constantly looking for self-motivated research interns. If you are interested in causality related topics, including but not limited to: causal inference and discovery, causality-inspired machine learning such as domain adaptation and invariant/stable prediction, applications in root cause analysis and recommender systems, etc., please send your resume to <zhushengyu@huawei.com> or <zhushyu@outlook.com>.
 
 Selected Publications
 ---
