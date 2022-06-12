@@ -18,16 +18,18 @@ Reviewers/External Reviewers
     * ACM Transactions on Intelligent Systems and Technology
     * EURASIP Journal on Advances in Signal Processing
     * Journal of the Franklin Institute
-* **Conference:** ICLR (2021), AAAI (2021), NeurIPS (2021, 2020, 2019), ICML (2021, 2018), IEEE ICASSP
+* **Conference:** ICLR (2021-2022), AAAI (2020-2022), NeurIPS (2019-2022), ICML (2018, 2021-2022), CLEAR (2022), WWW (2022), IEEE ICASSP
 
 Interns and Students 
 ---
-I am fortunate to work/have worked with following students:
+I am fortunate to work/have worked with following talented students:
 
-* Xinwei Shen (PhD stucdent, HKUST)
+* Ruiqi Zhao (PhD student, Peking University)
+* Ruoyu Wang (PhD student, Academy of Mathematics and Systems Science, Chinese Academy of Sciences)
+* Xinwei Shen (PhD student, HKUST)
 * Erdun Gao (PhD student, University of Melbourne)
 * Xiaoqiang Wang (PhD student, Xi’an Jiaotong University)
 * Chenyang Hong (PhD student, CUHK)
 * Haoyang Li (MS student, Ecole Polytechnique)
 * Zhuangyan Fang (PhD student, Peking University)
-* Ignavier Ng (post-undergraduate, HKUST -> MS student, University of Toronto -> currently AI resident at Google X)
+* Ignavier Ng (post-undergraduate, HKUST -> MS student, University of Toronto -> AI resident, Google X -> PhD, CMU)
