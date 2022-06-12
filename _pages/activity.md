@@ -18,7 +18,8 @@ Reviewers/External Reviewers
     * ACM Transactions on Intelligent Systems and Technology
     * EURASIP Journal on Advances in Signal Processing
     * Journal of the Franklin Institute
-* **Conference:** ICLR (2021-2022), AAAI (2020-2022), NeurIPS (2019-2022), ICML (2018, 2021-2022), CLEAR (2022), WWW (2022), IEEE ICASSP
+* **Conference:** 
+    * ICLR (2021-2022), AAAI (2020-2022), NeurIPS (2019-2022), ICML (2018, 2021-2022), CLEAR (2022), WWW (2022), IEEE ICASSP
 
 Interns and Students 
 ---
