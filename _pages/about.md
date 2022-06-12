@@ -14,7 +14,8 @@ Shengyu Zhu is a Principle researcher at Huawei Noah's Ark Lab. He received his 
 
 News
 ---
-**New website**: I could not access the old website, so just create a new one.
+**New website**: I could not access the old website, so just create this new one.
+
 **Research Internship:** We are constantly looking for self-motivated research interns. If you are interested in causality related topics, including but not limited to: causal inference and discovery, causality-inspired machine learning such as domain adaptation and invariant/stable prediction, applications in root cause analysis and recommender systems, etc., please send your resume to <zhushengyu@huawei.com> or <zhushyu@outlook.com>.
 
 Selected Publications
