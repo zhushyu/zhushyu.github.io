@@ -11,7 +11,7 @@ redirect_from:
 \[New website\]: I could not access the old website, so just create this new one.
 \
 \
-Shengyu Zhu is a Principle researcher at Huawei Noah's Ark Lab. He received his M.S. degree in mathematics and Ph.D. degree in electrical and computer engineering from Syracuse University, NY, USA, in 2016 and 2017, respectively. Before that, he obtained his B.E. degree in electrical engineering from Beijing Institute of Technology. He received the All University Doctoral Prize from Syracuse University for research excellence in completed dissertations in 2018. He has published in several top-ranked journals and conferences, including IEEE Trans. Information Theory, IEEE Trans. Signal Processing, ICLR, AISTATS, ISIT, etc. Preivously he workd on some problems from information theory and statistical signal processing, and his current interests mainly focus on causality and machine learning.
+Shengyu Zhu is a Principal Researcher at Huawei Noah's Ark Lab. He received his M.S. degree in mathematics and Ph.D. degree in electrical and computer engineering from Syracuse University, NY, USA, in 2016 and 2017, respectively. Before that, he obtained his B.E. degree in electrical engineering from Beijing Institute of Technology. He received the All University Doctoral Prize from Syracuse University for research excellence in completed dissertations in 2018. He has published in several top-ranked journals and conferences, including IEEE Trans. Information Theory, IEEE Trans. Signal Processing, ICLR, AISTATS, ISIT, etc. Preivously he workd on some problems from information theory and statistical signal processing, and his current interests mainly focus on causality and machine learning.
 
 News
 ---
