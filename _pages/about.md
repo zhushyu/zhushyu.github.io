@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+\
 [New website]: I could not access the old website, so just create this new one.
 \
 \
