@@ -9,8 +9,8 @@ author_profile: true
 
 Research Interests
 ---
-* Practical compuational methods and theory for causal discovery
-* Applications of casual discovery and inference: recommender systems, root cause analysis, etc.
+* Causality and machine learning: invariant/stable learning, OOD generalization, etc.
+* Applications of casual discovery and inference: debiasing in recommender systems and telecommunications, root cause analysis, etc.
 * Kernel methods and hypothesis testing
 
 Recent Talks
