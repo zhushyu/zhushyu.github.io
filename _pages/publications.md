@@ -14,8 +14,8 @@ author_profile: true
 Journal Articles
 ---
 1. Zhuangyan Fang, Yue Liu, Zhi Geng, Shengyu Zhu, Yangbo He, [A local method for identifying causal relations under Markov equivalence](https://doi.org/10.1016/j.artint.2022.103669), Artificial Intelligence (AIJ), Feburary, 2022.
-2. Shengyu Zhu, Biao Chen, Zhitang Chen, and Pengfei Yang, [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), IEEE Transactions on Information Theory (TIT), Feburary 2021.
-3. Shengyu Zhu and Biao Chen, [Distributed detection in ad hoc networks through quantized consensus](http://dx.doi.org/10.1109/TIT.2018.2865108), IEEE Transactions on Information Theory (TIT), November 2018.
+2. Shengyu Zhu, Biao Chen, Zhitang Chen, and Pengfei Yang, [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), IEEE Transactions on Information Theory (TIT), April 2021.
+3. Shengyu Zhu and Biao Chen, [Distributed detection in ad hoc networks through quantized consensus](http://dx.doi.org/10.1109/TIT.2018.2865108), IEEE Transactions on Information Theory (TIT), August 2018.
 4. Shengyu Zhu and Biao Chen, [Quantized consensus by the ADMM: Probabilistic versus deterministic quantizers](http://dx.doi.org/10.1109/TIT.2018.2865108), IEEE Transactions on Signal Processing (TSP), April 2016.
 5. Ge Xu, Shengyu Zhu, and Biao Chen, [Decentralized data reduction with quantization constraints](http://dx.doi.org/10.1109/TSP.2015.2504341), IEEE Transactions on Signal Processing (TSP), April 2014. (corresponding author)
 
@@ -23,10 +23,10 @@ Journal Articles
 Referred Conference Proceedings
 ---
 1. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, Reframed GES with a neural conditional dependence measure, UAI, 2022.
-2. Ruoyu Wang, Yiming Yang, Zhitang Chen, Shengyu Zhu, [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2022. (corresponding author)
-3. Iganvier Ng, Shengyu Zhu, Zhuangyan Fang, Haoyang Li, Zhitang Chen, Jun Wang, [Masked gradient-based causal structure learning](https://doi.org/10.1137/1.9781611977172.48), SIAM Conference on Data Mining (SDM), 2022. (corresponding author)
-4. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](http://dx.doi.org/0.1109/ICCAD51958.2021.9643458), IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2021.
-5. Xiaoqiang Wang, Yali Du, Shengyu Zhu, Liangjun Ke, Zhitang Chen, Jianye Hao, Jun Wang, [Ordering-based causal discovery with reinforcement learning](https://arxiv.org/abs/2105.06631), International Joint Conference on Artificial Intelligence (IJCAI), 2021. (corresponding author)
+2. Ruoyu Wang, Yiming Yang, Zhitang Chen, Shengyu Zhu, [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), June 2022. (corresponding author)
+3. Iganvier Ng, Shengyu Zhu, Zhuangyan Fang, Haoyang Li, Zhitang Chen, Jun Wang, [Masked gradient-based causal structure learning](https://doi.org/10.1137/1.9781611977172.48), SIAM Conference on Data Mining (SDM), May 2022. (corresponding author)
+4. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](http://dx.doi.org/0.1109/ICCAD51958.2021.9643458), IEEE/ACM International Conference On Computer Aided Design (ICCAD), November 2021.
+5. Xiaoqiang Wang, Yali Du, Shengyu Zhu, Liangjun Ke, Zhitang Chen, Jianye Hao, Jun Wang, [Ordering-based causal discovery with reinforcement learning](https://arxiv.org/abs/2105.06631), International Joint Conference on Artificial Intelligence (IJCAI), July 2021. (corresponding author)
 6.  Shengyu Zhu, Ignavier Ng, and Zhitang Chen, [Causal discovery with reinforcement learning](https://openreview.net/forum?id=S1g2skStPB), International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020.  **(highest review score and oral presentation; top 1.6%)**
 7.	Shengyu Zhu, Biao Chen, Pengfei Yang, and Zhitang Chen, [Universal hypothesis testing with kernels: Asymptotically optimal tests for goodness of fit](http://proceedings.mlr.press/v89/zhu19b), International Conference on Artificial Intelligence and Statistics (AISTATS), Naha, Okinawa, Japan, April 2019.
 8.	Shengyu Zhu and Biao Chen, [Distributed detection over connected networks via one-bit quantizer](http://dx.doi.org/10.1109/ISIT.2016.7541554), IEEE International Symposium on Information Theory (ISIT), Barcelona, Spain, July 2016.
