@@ -41,6 +41,6 @@ Some Preprints and Workshop Papers
 ---
 1. Yong Lin, Shengyu Zhu, Peng Cui, [ZIN: When and how to learn invariance by environment inference?](https://arxiv.org/abs/2203.05818)
 2. Keli Zhang, Shengyu Zhu, Marcus Kalander, Ignavier Ng, Junjian Ye, Zhitang Chen, Lujia Pan, [gCastle: A Python Toolbox for Causal Discovery](https://arxiv.org/abs/2111.15155)
-3. Zhuangyan Fang, Shengyu Zhu, Jiji Zhang, Yue Liu, Zhitang Chen, Yangbo He[Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691)
+3. Zhuangyan Fang, Shengyu Zhu, Jiji Zhang, Yue Liu, Zhitang Chen, Yangbo He, [Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691)
 4. Ignavier Ng, Shengyu Zhu, Zhitang Chen, Zhuangyan Fang, [A graph autoencoder approach to causal structure learning](https://arxiv.org/abs/1911.07420), NeurIPS Causality Workshop, 2019.
 
