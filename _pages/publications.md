@@ -22,7 +22,7 @@ Journal Articles
 
 Referred Conference Proceedings
 ---
-1. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, Reframed GES with a neural conditional dependence measure, UAI, 2022.
+1. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, Reframed GES with a neural conditional dependence measure, Conference on Uncertainty in Artificial Intelligence (UAI), 2022.
 2. Ruoyu Wang, Mingyang Yi, Zhitang Chen, Shengyu Zhu, [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), June 2022. (corresponding author)
 3. Iganvier Ng, Shengyu Zhu, Zhuangyan Fang, Haoyang Li, Zhitang Chen, Jun Wang, [Masked gradient-based causal structure learning](https://doi.org/10.1137/1.9781611977172.48), SIAM Conference on Data Mining (SDM), May 2022. (corresponding author)
 4. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](http://dx.doi.org/0.1109/ICCAD51958.2021.9643458), IEEE/ACM International Conference On Computer Aided Design (ICCAD), November 2021.
@@ -39,8 +39,8 @@ Referred Conference Proceedings
 
 Some Preprints and Workshop Papers
 ---
-1. [ZIN: When and how to learn invariance by environment inference?](https://arxiv.org/abs/2203.05818)
-2. [gCastle: A Python Toolbox for Causal Discovery](https://arxiv.org/abs/2111.15155)
-3. [Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691)
-4. [A graph autoencoder approach to causal structure learning](https://arxiv.org/abs/1911.07420), NeurIPS Causality Workshop, 2019.
+1. Yong Lin, Shengyu Zhu, Peng Cui, [ZIN: When and how to learn invariance by environment inference?](https://arxiv.org/abs/2203.05818)
+2. Keli Zhang, Shengyu Zhu, Marcus Kalander, Ignavier Ng, Junjian Ye, Zhitang Chen, Lujia Pan, [gCastle: A Python Toolbox for Causal Discovery](https://arxiv.org/abs/2111.15155)
+3. Zhuangyan Fang, Shengyu Zhu, Jiji Zhang, Yue Liu, Zhitang Chen, Yangbo He[Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691)
+4. Ignavier Ng, Shengyu Zhu, Zhitang Chen, Zhuangyan Fang, [A graph autoencoder approach to causal structure learning](https://arxiv.org/abs/1911.07420), NeurIPS Causality Workshop, 2019.
 
