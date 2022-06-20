@@ -22,7 +22,7 @@ Journal Articles
 
 Referred Conference Proceedings
 ---
-1. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, Reframed GES with a neural conditional dependence measure, Conference on Uncertainty in Artificial Intelligence (UAI), 2022.
+1. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, [Reframed GES with a neural conditional dependence measure](https://arxiv.org/abs/2206.08531), Conference on Uncertainty in Artificial Intelligence (UAI), 2022.
 2. Ruoyu Wang, Mingyang Yi, Zhitang Chen, Shengyu Zhu, [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), June 2022. (corresponding author)
 3. Iganvier Ng, Shengyu Zhu, Zhuangyan Fang, Haoyang Li, Zhitang Chen, Jun Wang, [Masked gradient-based causal structure learning](https://doi.org/10.1137/1.9781611977172.48), SIAM Conference on Data Mining (SDM), May 2022. (corresponding author)
 4. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](http://dx.doi.org/0.1109/ICCAD51958.2021.9643458), IEEE/ACM International Conference On Computer Aided Design (ICCAD), November 2021.
