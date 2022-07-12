@@ -15,9 +15,11 @@ Research Interests
 
 Recent Talks
 ---
-* Invited talk on ‘Gradient based causal structure learning: methods and applications’ at several internal departments of Huawei, including Noah's Ark Lab, 2020. 
-* Invited talk on ‘Causal discovery with reinforcement learning’ at Leiphone.com and Tianjin University (online), March, 2020.
-* Invited talk on ‘Gradient based causal structure learning’ at International Workshop on Causal Modeling and Machine Learning (CaMal 2019), Guangzhou, December, 2019.
+* Invited panelist on "Causal inference and learning", VALSE webinar, August 2021.
+* Invited talk on "Gradient based causal structure learning", Institute of Natural Science, Shanghai Jiaotong University, May 2021.
+* Invited talk on "Gradient based causal structure learning: methods and applications" at several internal departments of Huawei, 2020. 
+* Invited talk on "Causal discovery with reinforcement learning" at Leiphone.com and Tianjin University (online), March, 2020.
+* Invited talk on "Gradient based causal structure learning" at International Workshop on Causal Modeling and Machine Learning (CaMal 2019), Guangzhou, December, 2019.
 * Invited lectures on machine learning, including introduction, ensemble methods and feature engineering, at Huawei Wireless Department, Shanghai, March, 2019.
 
 
