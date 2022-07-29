@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+- **Contact info**: zhushyu AT outlook.com 
+- **New website**: I could not access the old website, so just create this new one.    
 
-- \[Contact info\]: zhushyu AT outlook.com (old emails are no longer accessible)
-- \[New website\]: I could not access the old website, so just create this new one.
-\
-\
 
 Bio
 ---
