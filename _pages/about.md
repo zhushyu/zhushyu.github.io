@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- \[Contact info\]: zhushyu AT outlook.com 
-- \[New website\]: I could not access the old website, so just create this new one.    
+- Contact info: zhushyu AT outlook.com 
+- New website: I could not access the old website, so just create this new one.    
 
 
 Bio
