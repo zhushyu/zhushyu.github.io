@@ -2,7 +2,7 @@
 layout: archive
 title: "Codes"
 permalink: /codes/
-author_profile: true
+author_profile: false
 ---
 
 gCASTLE: A Causal Structure Learning Toolchain
