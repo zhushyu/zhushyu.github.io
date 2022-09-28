@@ -15,7 +15,9 @@ Research Interests
 
 Recent Talks
 ---
-* Invited panelist on "Causal inference and learning", VALSE webinar, August 2021.
+* Invited talk, "Introduction to causal discover", OOD group, August 2022
+* Invited talk,  "Causality and machine learning: How they help each other?", Institute of Computing Technology, Chinese Academy of Sciences, August 2022
+* Invited panelist on "Causal inference and learning", VALSE (Vision And Learning SEminar) webinar, August 2021.
 * Invited talk on "Gradient based causal structure learning", Institute of Natural Science, Shanghai Jiaotong University, May 2021.
 * Invited talk on "Gradient based causal structure learning: methods and applications" at several internal departments of Huawei, 2020. 
 * Invited talk on "Causal discovery with reinforcement learning" at Leiphone.com and Tianjin University (online), March, 2020.
