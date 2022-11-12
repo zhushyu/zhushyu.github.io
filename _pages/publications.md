@@ -24,7 +24,7 @@ Journal Articles
 
 Referred Conference Proceedings
 ---
-1.  Yong Lin, Shengyu Zhu, Lu Tan, Peng Cui, [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), *NeurIPS*, 2022. (**spotlight presentation**; corresponding author)
+1.  Yong Lin, Shengyu Zhu, Lu Tan, Peng Cui, [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), *NeurIPS*, 2022. (corresponding author)
 2.  Junlong Lyu, Zhitang Chen, Chang Feng, Wenjing Cun, Shengyu Zhu, Yanhui Geng, Zhijie Xu, Para-CFlows: $C^k$-universal diffeomorphism approximators as superior neural surrogates, *NeurIPS*, 2022.
 4.  Xiaopeng Zhang, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., RCANet: Root cause analysis via latent variable interaction modeling for yield improvement, *IEEE International Test Conference (ITC)*, accepted, 2022.
 5. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, [Reframed GES with a neural conditional dependence measure](https://arxiv.org/abs/2206.08531), *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2022.
