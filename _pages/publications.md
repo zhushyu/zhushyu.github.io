@@ -13,7 +13,7 @@ author_profile: true
 
 Journal Articles
 ---
-1. Zhuangyan Fang*, Shengyu Zhu*, Jiji Zhang, Yue Liu, Zhitang Chen, Yangbo He, [Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023. (*equal contribution)
+1. Zhuangyan Fang\*, Shengyu Zhu\*, Jiji Zhang, Yue Liu, Zhitang Chen, Yangbo He, [Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023. (*equal contribution)
 2. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](https://doi.org/10.1109/TCAD.2022.3192363), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2022.
 3. Zitong Lu, Zhi Geng, Wei Li, Shengyu Zhu, Jinzhu Jia, [Evaluating causes of effects by posterior effects of causes](https://doi.org/10.1093/biomet/asac038), *Biometrika*, 2022.
 4. Zhuangyan Fang, Yue Liu, Zhi Geng, Shengyu Zhu, Yangbo He, [A local method for identifying causal relations under Markov equivalence](https://doi.org/10.1016/j.artint.2022.103669), *Artificial Intelligence (AIJ)*, Feburary, 2022.
@@ -49,5 +49,12 @@ Some Preprints and Workshop Papers
 ---
 1. Ignavier Ng, Shengyu Zhu, Zhitang Chen, Zhuangyan Fang, [A graph autoencoder approach to causal structure learning](https://arxiv.org/abs/1911.07420), NeurIPS Causality Workshop, 2019.
 4. Keli Zhang, Shengyu Zhu, Marcus Kalander, Ignavier Ng, Junjian Ye, Zhitang Chen, Lujia Pan, [gCastle: A Python Toolbox for Causal Discovery](https://arxiv.org/abs/2111.15155)
+
+Patents
+---
+1. Root cause positioning method for communication network fault and related equipment, granted, CN113923099B (in accordance to SDM'2022 paper, with modifications for new applications)
+2. Chip fault identification method and related equipment, under substantive examination (last round before granted), CN113657022A (in accordance to ICCAD'2021 and TCAD'2022 papers)
+3. Defect root cause determination method, defect root cause determination device and storage medium, under substantive examination, CN115238641A (in accordance to ITC'2022 paper)
+4. Data processing method and related equipment item, under substantive examination, CN115905932A (in accordance to CVPR'2022 paper)
 
 
