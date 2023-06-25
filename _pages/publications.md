@@ -25,7 +25,7 @@ Journal Articles
 
 Referred Conference Proceedings
 ---
-1.  Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Zhi Geng, Yangbo He, Conditional counterfactual causal effect for individual attribution, *UAI*, 2023. (first two authors were interns at Noah's Ark Lab)
+1.  Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Zhi Geng, Yangbo He, Conditional counterfactual causal effect for individual attribution, *UAI*, 2023. (**spotlight presentation**; first two authors were interns at Noah's Ark Lab)
 2.  Xiaoyu Tan, LIN Yong, Shengyu Zhu, Chao Qu, Xihe Qiu, Xu Yinghui, Peng Cui, Yuan Qi, Provably Invariance Learning without Domain Information”, *ICML*, 2023.
 3.  Yong Lin, Shengyu Zhu, Lu Tan, Peng Cui, [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), *NeurIPS*, 2022. (**spotlight presentation**; corresponding author)
 4.  Junlong Lyu, Zhitang Chen, Chang Feng, Wenjing Cun, Shengyu Zhu, Yanhui Geng, Zhijie Xu, Para-CFlows: $C^k$-universal diffeomorphism approximators as superior neural surrogates, *NeurIPS*, 2022.
