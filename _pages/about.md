@@ -17,8 +17,10 @@ Shengyu Zhu was a Principal Researcher at Huawei Noah's Ark Lab. He received his
 
 Selected Publications
 ---
-* [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), NeurIPS, 2022.
+* [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), NeurIPS, 2022
+* [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), CVPR, 2022
 * [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), IEEE Transactions on Information Theory, 2021
-* [Causal discovery with reinforcement learning](https://openreview.net/forum?id=S1g2skStPB), International Conference on Learning Representations (ICLR), 2020
+* [Causal discovery with reinforcement learning](https://openreview.net/forum?id=S1g2skStPB), ICLR, 2020
+  
 
      
