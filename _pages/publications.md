@@ -13,14 +13,16 @@ author_profile: true
 
 Journal Articles
 ---
-1. Zhuangyan Fang\*, Shengyu Zhu\*, Jiji Zhang, Yue Liu, Zhitang Chen, Yangbo He, [Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023. (*equal contribution)
-2. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](https://doi.org/10.1109/TCAD.2022.3192363), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2022.
-3. Zitong Lu, Zhi Geng, Wei Li, Shengyu Zhu, Jinzhu Jia, [Evaluating causes of effects by posterior effects of causes](https://doi.org/10.1093/biomet/asac038), *Biometrika*, 2022.
-4. Zhuangyan Fang, Yue Liu, Zhi Geng, Shengyu Zhu, Yangbo He, [A local method for identifying causal relations under Markov equivalence](https://doi.org/10.1016/j.artint.2022.103669), *Artificial Intelligence (AIJ)*, Feburary, 2022.
-5. Shengyu Zhu, Biao Chen, Zhitang Chen, and Pengfei Yang, [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), *IEEE Transactions on Information Theory (TIT)*, April 2021.
-6. Shengyu Zhu and Biao Chen, [Distributed detection in ad hoc networks through quantized consensus](http://dx.doi.org/10.1109/TIT.2018.2865108), *IEEE Transactions on Information Theory (TIT)*, August 2018.
-7. Shengyu Zhu and Biao Chen, [Quantized consensus by the ADMM: Probabilistic versus deterministic quantizers](http://dx.doi.org/10.1109/TIT.2018.2865108), *IEEE Transactions on Signal Processing (TSP)*, April 2016.
-8. Ge Xu, Shengyu Zhu, and Biao Chen, [Decentralized data reduction with quantization constraints](http://dx.doi.org/10.1109/TSP.2015.2504341), *IEEE Transactions on Signal Processing (TSP)*, April 2014. (corresponding author)
+1. Shaokang Dong, Hangyu Mao, Shangdong Yang, Shengyu Zhu, Wenbin Li, Jianye Hao, Yang Gao,
+WToE: Learning When to Explore in Multiagent Reinforcement Learning, *IEEE Transactions on Cybernetics*, 2024.
+2. Zhuangyan Fang\*, Shengyu Zhu\*, Jiji Zhang, Yue Liu, Zhitang Chen, Yangbo He, [Low rank directed acyclic graphs and causal structure learning](https://arxiv.org/abs/2006.05691), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2024. (*equal contribution)
+3. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](https://doi.org/10.1109/TCAD.2022.3192363), *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2023.
+4. Zitong Lu, Zhi Geng, Wei Li, Shengyu Zhu, Jinzhu Jia, [Evaluating causes of effects by posterior effects of causes](https://doi.org/10.1093/biomet/asac038), *Biometrika*, 2022.
+5. Zhuangyan Fang, Yue Liu, Zhi Geng, Shengyu Zhu, Yangbo He, [A local method for identifying causal relations under Markov equivalence](https://doi.org/10.1016/j.artint.2022.103669), *Artificial Intelligence (AIJ)*, Feburary, 2022.
+6. Shengyu Zhu, Biao Chen, Zhitang Chen, and Pengfei Yang, [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), *IEEE Transactions on Information Theory (TIT)*, April 2021.
+7. Shengyu Zhu and Biao Chen, [Distributed detection in ad hoc networks through quantized consensus](http://dx.doi.org/10.1109/TIT.2018.2865108), *IEEE Transactions on Information Theory (TIT)*, August 2018.
+8. Shengyu Zhu and Biao Chen, [Quantized consensus by the ADMM: Probabilistic versus deterministic quantizers](http://dx.doi.org/10.1109/TIT.2018.2865108), *IEEE Transactions on Signal Processing (TSP)*, April 2016.
+9. Ge Xu, Shengyu Zhu, and Biao Chen, [Decentralized data reduction with quantization constraints](http://dx.doi.org/10.1109/TSP.2015.2504341), *IEEE Transactions on Signal Processing (TSP)*, April 2014. (corresponding author)
 
 
 Referred Conference Proceedings
@@ -53,8 +55,9 @@ Some Preprints and Workshop Papers
 Patents
 ---
 1. Root cause positioning method for communication network fault and related equipment, granted, CN113923099B (in accordance to SDM'2022 paper, with modifications for new applications)
-2. Chip fault identification method and related equipment, under substantive examination (last round before granted), CN113657022A (in accordance to ICCAD'2021 and TCAD'2022 papers)
+2. Chip fault identification method and related equipment, granted, CN113657022B (in accordance to ICCAD'2021 and TCAD'2022 papers)
 3. Defect root cause determination method, defect root cause determination device and storage medium, under substantive examination, CN115238641A (in accordance to ITC'2022 paper)
 4. Data processing method and related equipment item, under substantive examination, CN115905932A (in accordance to CVPR'2022 paper)
+5. Communication method and communication device, CN116192330A (in accordance to a INFOCOM submission)
 
 
