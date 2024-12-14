@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shengyu Zhu"
   avatar           : "zhushengyu.jpg"
-  bio              : "Principal Researcher, Huawei Noah's Ark Lab"
+  bio              : "Associate Professor, Institute of Computing Technology"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=-Z2Dv0EAAAAJ&hl=en
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
