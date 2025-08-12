@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+## Preprints
+
+1. [gCastle: A Python Toolbox for Causal Structure Learning](https://arxiv.org/abs/2111.15155), minor revision at JMLR, 2025.
+2. Learning Invariance Without Environment Partition, submitted to JMLR, 2025.
+3. Three works in submssion: on *"LLM safety at decoding time"*, *"adversarial attack"*, and *"supervised dimensionality reduction"*.
+
 Journal Articles
 ---
 1. Shaokang Dong, Hangyu Mao, Shangdong Yang, Shengyu Zhu, Wenbin Li, Jianye Hao, Yang Gao,
@@ -47,17 +53,18 @@ Referred Conference Proceedings
 18.	Shengyu Zhu and Biao Chen, [Data reduction in tandem fusion systems](http://dx.doi.org/10.1109/ChinaSIP.2013.6625412), *IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP)*, Beijing, China, July 2013.
 19.	Shengyu Zhu, Earnest Akofor, and Biao Chen, [Interactive distributed detection with conditionally independent observations](http://dx.doi.org/10.1109/WCNC.2013.6554959), *IEEE Wireless Communications and Networking Conference (WCNC)*, Shanghai, China, April 2013.
 
-Some Preprints and Workshop Papers
+Workshop Papers
 ---
 1. Ignavier Ng, Shengyu Zhu, Zhitang Chen, Zhuangyan Fang, [A graph autoencoder approach to causal structure learning](https://arxiv.org/abs/1911.07420), NeurIPS Causality Workshop, 2019.
-4. Keli Zhang, Shengyu Zhu, Marcus Kalander, Ignavier Ng, Junjian Ye, Zhitang Chen, Lujia Pan, [gCastle: A Python Toolbox for Causal Discovery](https://arxiv.org/abs/2111.15155)
 
 Patents
 ---
 1. Root cause positioning method for communication network fault and related equipment, granted, CN113923099B (in accordance to SDM'2022 paper, with modifications for new applications)
 2. Chip fault identification method and related equipment, granted, CN113657022B (in accordance to ICCAD'2021 and TCAD'2022 papers)
-3. Defect root cause determination method, defect root cause determination device and storage medium, under substantive examination, CN115238641A (in accordance to ITC'2022 paper)
-4. Data processing method and related equipment item, under substantive examination, CN115905932A (in accordance to CVPR'2022 paper)
-5. Communication method and communication device, CN116192330A (in accordance to a INFOCOM submission)
+3. Communication method and communication device, granted, CN116192330B (in accordance to a INFOCOM submission)
+4. Defect root cause determination method, defect root cause determination device and storage medium, under substantive examination, CN115238641A (in accordance to ITC'2022 paper)
+5. Data processing method and related equipment item, under substantive examination, CN115905932A (in accordance to CVPR'2022 paper)
+6. Method, apparatus, storage medium, and program product for generating challenge samples, under substantive examination, CN120387497A
+
 
 
