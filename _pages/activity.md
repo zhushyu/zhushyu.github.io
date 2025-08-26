@@ -23,11 +23,12 @@ Reviewers/External Reviewers
 
 Interns and Students 
 ---
+I am fortunate to work/have worked with following talented students:
 ### @ICT
-* null
+* Xuekang Wang (Junior, Beijing Institute of Technology.)
 
 ### @Huawei Noah's Ark Lab
-I am fortunate to work/have worked with following talented students:
+
 * Lu Tan (Master student, Tsinghua Unviersity)
 * Ruiqi Zhao (PhD student, Peking University)
 * Lei Zhang (Master student, Renmin University of China)
@@ -38,4 +39,4 @@ I am fortunate to work/have worked with following talented students:
 * Chenyang Hong (PhD student, CUHK)
 * Haoyang Li (MS student, Ecole Polytechnique)
 * Zhuangyan Fang (PhD student, Peking University)
-* Ignavier Ng (post-undergraduate, HKUST -> MS student, University of Toronto -> AI resident, Google X -> PhD, CMU)
+* Ignavier Ng (post-undergraduate, HKUST -> MS, University of Toronto -> PhD, CMU)
