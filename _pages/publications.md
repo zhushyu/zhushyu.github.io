@@ -13,11 +13,11 @@ author_profile: true
 
 ## Recent Publications and Preprints
 
-1. [RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning](https://arxiv.org/abs/2504.18594), accepted to CVPR (main), 2025.
+1. [RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning](https://arxiv.org/abs/2504.18594), accepted to CVPR (main), 2026.
 2. [Speculative Safety-Aware Decoding](https://arxiv.org/abs/2508.17739), accepted to EMNLP (main conference), 2025.
 3. [gCastle: A Python Toolbox for Causal Structure Learning](https://arxiv.org/abs/2111.15155), minor revision at JMLR, 2025.
 4. Learning Invariance Without Environment Partition, submitted to JMLR, 2025.
-5. Two works in submssion: on *adversarial attack* and *supervised dimensionality reduction*.
+5. Other preprints (in submission/preparation): on *supervised dimensionality reduction*.
 
 Journal Articles
 ---
@@ -65,9 +65,10 @@ Patents
 1. Root cause positioning method for communication network fault and related equipment, granted, CN113923099B (in accordance to SDM'2022 paper, with modifications for new applications)
 2. Chip fault identification method and related equipment, granted, CN113657022B (in accordance to ICCAD'2021 and TCAD'2022 papers)
 3. Communication method and communication device, granted, CN116192330B (in accordance to a INFOCOM submission)
-4. Defect root cause determination method, defect root cause determination device and storage medium, under substantive examination, CN115238641A (in accordance to ITC'2022 paper)
+4. Method and apparatus for determining root-cause defect, and storage medium, CN115238641A (in accordance to ITC'2022 paper)
 5. Data processing method and related equipment item, under substantive examination, CN115905932A (in accordance to CVPR'2022 paper)
 6. Method, apparatus, storage medium, and program product for generating challenge samples, under substantive examination, CN120387497A
+7. Large language model safety decoding method and system based on dynamic matching rate, under substantive examination, CN121168409A
 
 
 
