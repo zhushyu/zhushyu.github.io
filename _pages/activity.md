@@ -12,6 +12,7 @@ Reviewers/External Reviewers
     * IEEE Transactions on Signal Processing 
     * IEEE Transactions on Pattern Analysis and Machine Intelligence
     * IEEE Transactions on Neural Networks and Learning Systems
+    * IEEE Transactions on Artificial Intelligence
     * IEEE Transactions on Signal and Information Processing over Networks
     * IEEE Transactions on Aerospace and Electronic Systems
     * IEEE Signal Processing Letters
@@ -25,6 +26,7 @@ Interns and Students
 ---
 I am fortunate to work/have worked with following talented students:
 ### @ICT
+* Zhuoran Zhao (Master student, Institute of Computing Technology, Chinese Academy of Sciences)
 * Xuekang Wang (Junior, Beijing Institute of Technology.)
 
 ### @Huawei Noah's Ark Lab
