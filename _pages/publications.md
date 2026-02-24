@@ -13,10 +13,11 @@ author_profile: true
 
 ## Recent Publications and Preprints
 
-1. [Speculative Safety-Aware Decoding](https://arxiv.org/abs/2508.17739), accepted to EMNLP (main conference), 2025.
-2. [gCastle: A Python Toolbox for Causal Structure Learning](https://arxiv.org/abs/2111.15155), minor revision at JMLR, 2025.
-3. Learning Invariance Without Environment Partition, submitted to JMLR, 2025.
-4. Two works in submssion: on *adversarial attack* and *supervised dimensionality reduction*.
+1. [RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning](https://arxiv.org/abs/2504.18594), accepted to CVPR (main), 2025.
+2. [Speculative Safety-Aware Decoding](https://arxiv.org/abs/2508.17739), accepted to EMNLP (main conference), 2025.
+3. [gCastle: A Python Toolbox for Causal Structure Learning](https://arxiv.org/abs/2111.15155), minor revision at JMLR, 2025.
+4. Learning Invariance Without Environment Partition, submitted to JMLR, 2025.
+5. Two works in submssion: on *adversarial attack* and *supervised dimensionality reduction*.
 
 Journal Articles
 ---
@@ -33,26 +34,27 @@ Journal Articles
 
 Referred Conference Proceedings
 ---
-1.  Xuekang Wang, Shengyu Zhu, Xueqi Cheng, [Speculative safety-aware decoding](https://arxiv.org/abs/2508.17739), *EMNLP* (main conference), 2025. (Correspoding author)
-2.  Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Zhi Geng, Yangbo He, [Conditional counterfactual causal effect for individual attribution](https://proceedings.mlr.press/v216/zhao23a.html), *UAI*, 2023. (**spotlight presentation**; first two authors were interns at Noah's Ark Lab)
-3.  Xiaoyu Tan, LIN Yong, Shengyu Zhu, Chao Qu, Xihe Qiu, Xu Yinghui, Peng Cui, Yuan Qi, [Provably invariant learning without domain information](https://openreview.net/forum?id=0jSSVPrfcX), *ICML*, 2023.
-4.  Yong Lin, Shengyu Zhu, Lu Tan, Peng Cui, [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), *NeurIPS*, 2022. (**spotlight presentation**; corresponding author)
-5.  Junlong Lyu, Zhitang Chen, Chang Feng, Wenjing Cun, Shengyu Zhu, Yanhui Geng, Zhijie Xu, [Para-CFlows: $C^k$-universal diffeomorphism approximators as superior neural surrogates](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b9523d484af624986c2e0c630ac44ecb-Abstract-Conference.html), *NeurIPS*, 2022.
-6.  Xiaopeng Zhang, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [RCANet: Root cause analysis via latent variable interaction modeling for yield improvement](http://dx.doi.org/10.1109/ITC50671.2022.00017), *IEEE International Test Conference (ITC)*, 2022.
-7. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, [Reframed GES with a neural conditional dependence measure](https://arxiv.org/abs/2206.08531), *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2022.
-8. Ruoyu Wang, Mingyang Yi, Zhitang Chen, Shengyu Zhu, [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), *IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, June 2022. (corresponding author)
-9. Iganvier Ng, Shengyu Zhu, Zhuangyan Fang, Haoyang Li, Zhitang Chen, Jun Wang, [Masked gradient-based causal structure learning](https://doi.org/10.1137/1.9781611977172.48), *SIAM Conference on Data Mining (SDM)*, May 2022. (corresponding author)
-10. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](http://dx.doi.org/0.1109/ICCAD51958.2021.9643458), *IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, November 2021.
-11. Xiaoqiang Wang, Yali Du, Shengyu Zhu, Liangjun Ke, Zhitang Chen, Jianye Hao, Jun Wang, [Ordering-based causal discovery with reinforcement learning](https://doi.org/10.24963/ijcai.2021/491), *International Joint Conference on Artificial Intelligence (IJCAI)*, July 2021. (corresponding author)
-12.  Shengyu Zhu, Ignavier Ng, and Zhitang Chen, [Causal discovery with reinforcement learning](https://openreview.net/forum?id=S1g2skStPB), *International Conference on Learning Representations (ICLR)*, Addis Ababa, Ethiopia, April 2020.  **(highest review score and oral presentation; top 1.6%)**
-13.	Shengyu Zhu, Biao Chen, Pengfei Yang, and Zhitang Chen, [Universal hypothesis testing with kernels: Asymptotically optimal tests for goodness of fit](http://proceedings.mlr.press/v89/zhu19b), *International Conference on Artificial Intelligence and Statistics (AISTATS)*, Naha, Okinawa, Japan, April 2019.
-14.	Shengyu Zhu and Biao Chen, [Distributed detection over connected networks via one-bit quantizer](http://dx.doi.org/10.1109/ISIT.2016.7541554), *IEEE International Symposium on Information Theory (ISIT)*, Barcelona, Spain, July 2016.
-15.	Shengyu Zhu and Biao Chen, [Distributed average consensus with bounded quantization](http://dx.doi.org/10.1109/SPAWC.2016.7536852), *IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Edinburgh, UK, July 2016.
-16.	Shengyu Zhu, Mingyi Hong, and Biao Chen, [Quantized consensus ADMM for multi-agent distributed optimization](http://dx.doi.org/10.1109/ICASSP.2016.7472455), *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Shanghai, China, March 2016.
-17.	Shengyu Zhu and Biao Chen, [Distributed average consensus with deterministic quantization: an ADMM approach](http://dx.doi.org/10.1109/GlobalSIP.2015.7418285), *IEEE Global Conference on Signal and Information Processing (GlobalSIP)*, Orlando, FL, December 2015. **(IEEE travel grant)**
-18.	Shengyu Zhu, Ge Xu, and Biao Chen, [Are global sufficient statistics always sufficient: the impact of quantization on decentralized data reduction](http://dx.doi.org/10.1109/ACSSC.2013.6810461), *Asilomar Conference on Signals, Systems, and Computers (Asilomar)*, Monterey, CA, November 2013. (invited paper)
-19.	Shengyu Zhu and Biao Chen, [Data reduction in tandem fusion systems](http://dx.doi.org/10.1109/ChinaSIP.2013.6625412), *IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP)*, Beijing, China, July 2013.
-20.	Shengyu Zhu, Earnest Akofor, and Biao Chen, [Interactive distributed detection with conditionally independent observations](http://dx.doi.org/10.1109/WCNC.2013.6554959), *IEEE Wireless Communications and Networking Conference (WCNC)*, Shanghai, China, April 2013.
+1. Tongrui Su, Qingbin Li, Shengyu Zhu, Wei Chen, Xueqi Cheng, [RaPA: Enhancing transferable targeted attacks via random prarameter pruning](https://arxiv.org/abs/2504.18594), *CVPR*, 2026. (Correspoding author)
+2.  Xuekang Wang, Shengyu Zhu, Xueqi Cheng, [Speculative safety-aware decoding](https://arxiv.org/abs/2508.17739), *EMNLP* (main conference), 2025. (Correspoding author)
+3.  Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Zhi Geng, Yangbo He, [Conditional counterfactual causal effect for individual attribution](https://proceedings.mlr.press/v216/zhao23a.html), *UAI*, 2023. (**spotlight presentation**; first two authors were interns at Noah's Ark Lab)
+4.  Xiaoyu Tan, LIN Yong, Shengyu Zhu, Chao Qu, Xihe Qiu, Xu Yinghui, Peng Cui, Yuan Qi, [Provably invariant learning without domain information](https://openreview.net/forum?id=0jSSVPrfcX), *ICML*, 2023.
+5.  Yong Lin, Shengyu Zhu, Lu Tan, Peng Cui, [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), *NeurIPS*, 2022. (**spotlight presentation**; corresponding author)
+6.  Junlong Lyu, Zhitang Chen, Chang Feng, Wenjing Cun, Shengyu Zhu, Yanhui Geng, Zhijie Xu, [Para-CFlows: $C^k$-universal diffeomorphism approximators as superior neural surrogates](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b9523d484af624986c2e0c630ac44ecb-Abstract-Conference.html), *NeurIPS*, 2022.
+7.  Xiaopeng Zhang, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [RCANet: Root cause analysis via latent variable interaction modeling for yield improvement](http://dx.doi.org/10.1109/ITC50671.2022.00017), *IEEE International Test Conference (ITC)*, 2022.
+8. Xinwei Shen, Shengyu Zhu, Jiji Zhang, Shoubo Hu, Zhitang Chen, [Reframed GES with a neural conditional dependence measure](https://arxiv.org/abs/2206.08531), *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2022.
+9. Ruoyu Wang, Mingyang Yi, Zhitang Chen, Shengyu Zhu, [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), *IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, June 2022. (corresponding author)
+10. Iganvier Ng, Shengyu Zhu, Zhuangyan Fang, Haoyang Li, Zhitang Chen, Jun Wang, [Masked gradient-based causal structure learning](https://doi.org/10.1137/1.9781611977172.48), *SIAM Conference on Data Mining (SDM)*, May 2022. (corresponding author)
+11. Ran Chen, Shoubo Hu, Zhitang Chen, Shengyu Zhu, et al., [A unified framework for layout pattern analysis with deep causal estimation](http://dx.doi.org/0.1109/ICCAD51958.2021.9643458), *IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, November 2021.
+12. Xiaoqiang Wang, Yali Du, Shengyu Zhu, Liangjun Ke, Zhitang Chen, Jianye Hao, Jun Wang, [Ordering-based causal discovery with reinforcement learning](https://doi.org/10.24963/ijcai.2021/491), *International Joint Conference on Artificial Intelligence (IJCAI)*, July 2021. (corresponding author)
+13.  Shengyu Zhu, Ignavier Ng, and Zhitang Chen, [Causal discovery with reinforcement learning](https://openreview.net/forum?id=S1g2skStPB), *International Conference on Learning Representations (ICLR)*, Addis Ababa, Ethiopia, April 2020.  **(highest review score and oral presentation; top 1.6%)**
+14.	Shengyu Zhu, Biao Chen, Pengfei Yang, and Zhitang Chen, [Universal hypothesis testing with kernels: Asymptotically optimal tests for goodness of fit](http://proceedings.mlr.press/v89/zhu19b), *International Conference on Artificial Intelligence and Statistics (AISTATS)*, Naha, Okinawa, Japan, April 2019.
+15.	Shengyu Zhu and Biao Chen, [Distributed detection over connected networks via one-bit quantizer](http://dx.doi.org/10.1109/ISIT.2016.7541554), *IEEE International Symposium on Information Theory (ISIT)*, Barcelona, Spain, July 2016.
+16.	Shengyu Zhu and Biao Chen, [Distributed average consensus with bounded quantization](http://dx.doi.org/10.1109/SPAWC.2016.7536852), *IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Edinburgh, UK, July 2016.
+17.	Shengyu Zhu, Mingyi Hong, and Biao Chen, [Quantized consensus ADMM for multi-agent distributed optimization](http://dx.doi.org/10.1109/ICASSP.2016.7472455), *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Shanghai, China, March 2016.
+18.	Shengyu Zhu and Biao Chen, [Distributed average consensus with deterministic quantization: an ADMM approach](http://dx.doi.org/10.1109/GlobalSIP.2015.7418285), *IEEE Global Conference on Signal and Information Processing (GlobalSIP)*, Orlando, FL, December 2015. **(IEEE travel grant)**
+19.	Shengyu Zhu, Ge Xu, and Biao Chen, [Are global sufficient statistics always sufficient: the impact of quantization on decentralized data reduction](http://dx.doi.org/10.1109/ACSSC.2013.6810461), *Asilomar Conference on Signals, Systems, and Computers (Asilomar)*, Monterey, CA, November 2013. (invited paper)
+20.	Shengyu Zhu and Biao Chen, [Data reduction in tandem fusion systems](http://dx.doi.org/10.1109/ChinaSIP.2013.6625412), *IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP)*, Beijing, China, July 2013.
+21.	Shengyu Zhu, Earnest Akofor, and Biao Chen, [Interactive distributed detection with conditionally independent observations](http://dx.doi.org/10.1109/WCNC.2013.6554959), *IEEE Wireless Communications and Networking Conference (WCNC)*, Shanghai, China, April 2013.
 
 Workshop Papers
 ---
