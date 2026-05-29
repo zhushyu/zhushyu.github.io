@@ -26,10 +26,10 @@ Interns and Students
 ---
 I am fortunate to work/have worked with following talented students:
 ### @ICT
-* Rui Wang (Master student (incoming); BS: USTC)
+* Rui Wang (Master student (incoming), ICT; BS: USTC)
 * Zhuoran Zhao (Master student, ICT; BS: USTC)
-* Zhehao Zhou (Junior, Beijing Institute of Technology; Intern: 2025.12-, with first-author EMNLP submission)
-* Xuekang Wang (Junior, Beijing Institute of Technology; Internship: 2025.01-2025.06; 1 first-author EMNLP publication)
+* Zhehao Zhou (Junior, Beijing Institute of Technology; Internship: 2025.12-2025.06; first-author EMNLP submission)
+* Xuekang Wang (Junior, Beijing Institute of Technology; Internship: 2025.01-2025.06; first-author EMNLP publication; next stop: PhD, Tsinghua)
 
 ### @Huawei Noah's Ark Lab
 
