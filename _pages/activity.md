@@ -26,6 +26,8 @@ Interns and Students
 ---
 I am fortunate to work/have worked with following talented students:
 ### @ICT
+* Likun Wang (PhD student, ICT)
+* Qinbin Li (PhD student, ICT)
 * Rui Wang (Master student (incoming), ICT; BS: USTC)
 * Zhuoran Zhao (Master student, ICT; BS: USTC)
 * Zhehao Zhou (Junior, Beijing Institute of Technology; Internship: 2025.12-2025.06; first-author EMNLP submission)
