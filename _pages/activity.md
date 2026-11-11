@@ -27,11 +27,11 @@ Interns and Students
 I am fortunate to work/have worked with following talented students:
 ### @ICT
 * Likun Wang (PhD student, ICT)
-* Qinbin Li (PhD student, ICT)
-* Rui Wang (Master student (incoming), ICT; BS: USTC)
+* Xiaoyang Chen (Master student (incoming), ICT; BS: University of Chinese Academy of Sciences)
+* Rui Wang (Master student, ICT; BS: USTC)
 * Zhuoran Zhao (Master student, ICT; BS: USTC)
-* Zhehao Zhou (Junior, Beijing Institute of Technology; Internship: 2025.12-2025.06; first-author EMNLP submission)
-* Xuekang Wang (Junior, Beijing Institute of Technology; Internship: 2025.01-2025.06; first-author EMNLP publication; next stop: PhD, Tsinghua)
+* Zhehao Zhou (Junior, Beijing Institute of Technology; Internship: 2025.12-2025.06; first-author EMNLP submission; next: PhD, Tsinghua)
+* Xuekang Wang (Junior, Beijing Institute of Technology; Internship: 2025.01-2025.06; first-author EMNLP publication; next: PhD, Tsinghua)
 
 ### @Huawei Noah's Ark Lab
 
