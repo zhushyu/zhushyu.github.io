@@ -17,6 +17,7 @@ Shengyu Zhu has been an Associate Professor at the Institute of Computing Techno
 
 Selected Publications
 ---
+* [Speculative safety-aware decoding](https://arxiv.org/abs/2508.17739), EMNLP, 2025
 * [ZIN: When and how to learn invariance without environment partition?](https://arxiv.org/abs/2203.05818), NeurIPS, 2022
 * [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528), CVPR, 2022
 * [Asymptotically optimal one- and two-sample testing with kernels](http://dx.doi.org/10.1109/TIT.2021.3059267), IEEE Transactions on Information Theory, 2021
