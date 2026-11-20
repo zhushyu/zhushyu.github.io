@@ -13,7 +13,7 @@ author_profile: true
 
 ## Recent Publications and Preprints
 
-1. [ZenGen: Social Mind for LLMs](https://arxiv.org/abs/2607.23740)
+1. [ZenGen: Social Mind for LLMs](https://arxiv.org/abs/2607.23740), Tech Report, 2026.
 2. [Learning When to Think Aloud in Latent Reasoning](https://arxiv.org/abs/2611.06108), under review (first submitted in May 2026)
 3. [RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning](https://arxiv.org/abs/2504.18594), accepted to CVPR (main), 2026.
 4. [Speculative Safety-Aware Decoding](https://arxiv.org/abs/2508.17739), accepted to EMNLP (main conference), 2025.
