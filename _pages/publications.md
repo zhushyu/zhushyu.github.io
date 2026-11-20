@@ -13,11 +13,12 @@ author_profile: true
 
 ## Recent Publications and Preprints
 
-1. [Learning When to Think Aloud in Latent Reasoning](https://arxiv.org/abs/2611.06108), under review (first submitted in May 2026)
-2. [RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning](https://arxiv.org/abs/2504.18594), accepted to CVPR (main), 2026.
-3. [Speculative Safety-Aware Decoding](https://arxiv.org/abs/2508.17739), accepted to EMNLP (main conference), 2025.
-4. [gCastle: A Python Toolbox for Causal Structure Learning](https://arxiv.org/abs/2111.15155), minor revision at JMLR, 2025.
-5. Other preprints (in submission/preparation): on *supervised dimensionality reduction*.
+1. [ZenGen: Social Mind for LLMs](https://arxiv.org/abs/2607.23740)
+2. [Learning When to Think Aloud in Latent Reasoning](https://arxiv.org/abs/2611.06108), under review (first submitted in May 2026)
+3. [RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning](https://arxiv.org/abs/2504.18594), accepted to CVPR (main), 2026.
+4. [Speculative Safety-Aware Decoding](https://arxiv.org/abs/2508.17739), accepted to EMNLP (main conference), 2025.
+5. [gCastle: A Python Toolbox for Causal Structure Learning](https://arxiv.org/abs/2111.15155), minor revision at JMLR, 2025.
+6. Other preprints (in submission/preparation): on *supervised dimensionality reduction*.
 
 Journal Articles
 ---
